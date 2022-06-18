@@ -1,0 +1,51 @@
+GLOSARIO
+
+¿Por qué usar JDK?
+Estas son las principales razones para usar JDK:
+
+-JDK contiene las herramientas necesarias para escribir programas Java para ejecutarlos.
+
+-Incluye compilador, lanzador de aplicaciones Java, Appletviewer, etc.
+
+-El compilador convierte el código escrito en Java en código de bytes.
+
+JAVA VIRTUAL MACHINE JVM
+
+
+● Máquina Virtual Java (JVM). Java Virtual Machine (JVM) es un motor que proporciona un entorno de tiempo de ejecución para controlar el 
+código Java o las aplicaciones. Convierte el código de bytes de Java en lenguaje de máquina. 
+JVM es una parte de Java Run Environment (JRE). En otros lenguajes de programación, el compilador produce código de máquina para un sistema en particular. 
+Sin embargo, el compilador de Java produce código para una máquina virtual conocida como máquina virtual de Java.
+
+JAVA RUN TIME ENVIRONMENT JRE
+
+● Entorno de tiempo de ejecución de Java (JRE). JRE es una pieza de software que está diseñada para ejecutar otro software. 
+Contiene las bibliotecas de clases, la clase de cargador y la JVM. 
+En términos simples, si deseas ejecutar un programa Java, necesitas JRE. Si no eres programador, no necesitas instalar JDK, solo JRE para ejecutar programas Java.
+
+PLATAFORMAS DE JAVA
+
+● Plataforma Java, edición estándar (Java SE): la API de Java SE ofrece la
+funcionalidad principal del lenguaje de programación Java. Define toda la base de
+tipo y objeto para clases de alto nivel. Se utiliza para redes, seguridad, acceso a
+bases de datos, desarrollo de interfaz gráfica de usuario (GUI) y análisis XML.
+
+● Java Platform, Enterprise Edition (Java EE): la plataforma Java EE ofrece una
+API y un entorno de tiempo de ejecución para desarrollar y ejecutar aplicaciones
+de red altamente escalables, a gran escala, de múltiples niveles, confiables y
+seguras.
+
+● Plataforma de lenguaje de programación Java, Micro Edition (Java ME): la
+plataforma Java ME ofrece una API y una máquina virtual de tamaño reducido
+que ejecuta aplicaciones del lenguaje de programación Java en dispositivos
+pequeños, como teléfonos móviles.
+
+● Java FX: JavaFX es una plataforma para desarrollar aplicaciones ricas de Internet
+utilizando una API de interfaz de usuario liviana. Usa motores gráficos y de medios
+acelerados por hardware que ayudan a Java a aprovechar los clientes de mayor
+rendimiento y una apariencia moderna y API de alto nivel para conectarse a
+fuentes de datos en red.
+
+Java se ejecuta en diferentes plataformas, pero los programadores lo escriben de la
+misma manera. Los archivos Java tienen una extensión .java. ¡Algunos programas son un
+solo archivo, otros son cientos de archivos!
